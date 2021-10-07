@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/shreyansh-g24/nodejs-cheerio-web-scrapper/issues"
   },
-  "homepage": "https://github.com/shreyansh-g24/nodejs-cheerio-web-scrapper#readme"
+  "homepage": "https://github.com/shreyansh-g24/nodejs-cheerio-web-scrapper#readme",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "cheerio": "^1.0.0-rc.10",
+    "pretty": "^2.0.0"
+  }
 }
