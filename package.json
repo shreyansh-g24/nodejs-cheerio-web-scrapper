@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-cheerio-web-scrapper",
+  "version": "1.0.0",
+  "description": "ExpressJS and Cheerio based Web Scrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shreyansh-g24/nodejs-cheerio-web-scrapper.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shreyansh-g24/nodejs-cheerio-web-scrapper/issues"
+  },
+  "homepage": "https://github.com/shreyansh-g24/nodejs-cheerio-web-scrapper#readme"
+}
